@@ -8,6 +8,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Watch this space! Our new website is launching soon.
+          </p>
+          <p>
+          For any enquiries please email <strong>info@taxclick.co.uk</strong>         
+
         </p>
         {/*<a
           className="App-link"
