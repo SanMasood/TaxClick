@@ -10,7 +10,8 @@ function App() {
           Watch this space! Our new website is launching soon.
           </p>
           <p>
-          For any enquiries please email <strong>info@taxclick.co.uk</strong>         
+          For any enquiries please email
+          <p> <strong>info@taxclick.co.uk</strong>    </p>     
 
         </p>
         {/*<a
